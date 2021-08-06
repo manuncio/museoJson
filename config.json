@@ -1,7 +1,8 @@
 {
   "Config": [
     {
-      "Version": "1"
+      "Version": "1",
+      "Texto": "PRUEBA DE TEXTO DE LECTURA DE JSON"
     }
   ]
 }
